@@ -1,9 +1,15 @@
 # Hi there, I'm Timothy Chandler, a student of computer science at the University of Houston
 
+<p align="center">
+  
+<img src="https://metrics.lecoq.io/Ernaldis" alt="Github Metrics">
+
+</p>
+
 ## Some Languages and Technologies I have used:
 
 <p>
-    <img width="55%" align="right" alt="Timothy's github stats" src="https://github-readme-stats.vercel.app/api?username=Ernaldis&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Ernaldis's github stats" src="https://github-readme-stats.vercel.app/api?username=Ernaldis&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 	<img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg">
