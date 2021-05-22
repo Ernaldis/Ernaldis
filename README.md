@@ -1,4 +1,5 @@
-# It is my great regret that we live in an age that is proud of machines that think and suspicious of people who try to. - Adept Koriel Zeth, Forge Mistress 
+# It is my great regret that we live in an age that is proud of machines that think and suspicious of people who try to.
+## - Adept Koriel Zeth, Forge Mistress 
 
 <p align="center">
   
