@@ -20,11 +20,6 @@
   <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg">
 </p>
