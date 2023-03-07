@@ -15,10 +15,9 @@
   <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/index.html">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/index.html">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/index.html">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg">
 </p>
